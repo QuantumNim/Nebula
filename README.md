@@ -1,7 +1,7 @@
 ![Image 2025-07-23 at 14 18 07_7b16db96](https://github.com/user-attachments/assets/189d8c73-da28-4dec-8ec5-d6b04cb8c67a)
 # 📱 Nebula – Media Player & Video Downloader
 
-*Nebula* is a sleek and simple Android application that allows users to play local videos and download media from popular sources. Built with a focus on performance, clean UI, and privacy, Nebula is your all-in-one video experience — compact, powerful, and intuitive.
+*Nebula* is a sleek and simple Android application that allows users to play local videos and and audios and also to download media from popular sources. Built with a focus on performance, clean UI, and privacy, Nebula is your all-in-one video experience — compact, powerful, and intuitive.
 
 ---
 
