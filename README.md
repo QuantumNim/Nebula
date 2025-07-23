@@ -19,8 +19,8 @@
 #📱 To run on Android:
 
 Export to GitHub and git pull locally
-Run npx cap init then npx cap add android
-Run npx cap sync and npx cap run android
+- Run npx cap init then npx cap add android
+- Run npx cap sync and npx cap run android
 ---
 
 ## 🛠 Tech Stack
