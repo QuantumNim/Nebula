@@ -1,0 +1,4 @@
+rootProject.name = 'GoNative'
+System.setProperty("user.dir", rootProject.projectDir.toString())
+
+include ':app'
